@@ -3,7 +3,7 @@
 ### Sources:
 https://trufflesuite.com/boxes/ERC4907%20Box/
 
-### Personal aditions
+### personal add in
  script/infoToken.js 
  
  
